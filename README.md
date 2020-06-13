@@ -1,3 +1,4 @@
+Asignatura: Análisis de datos Ómicos
 # PEC2
-Análisis de datos de RNA-seq
+Título: Análisis de datos de RNA-seq
 Autor: Pérez Rodríguez, Francisco Javier 
